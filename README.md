@@ -1,1 +1,1 @@
-//Simple percentage calcultor.
+#Simple percentage calcultor.
